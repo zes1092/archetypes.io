@@ -12,7 +12,7 @@ in the works
 
 👤 **Ze Sheng**
 
-- GitHub: [@zes1092]((https://github.com/zes1092/)
+- GitHub: [@zes1092](https://github.com/zes1092/)
 - Twitter: [@zes1092](https://twitter.com/zes1092)
 - LinkedIn: [@zes1092](https://www.linkedin.com/in/zes1092/)
 
