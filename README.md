@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-zes1092-blueviolet) 
 
-# 🕹 dazed.io
+# 🕹 archetypes.io
 
 >  Matthew Williams inspired online clothing store designed with Webflow and Figma
 ```haskell
