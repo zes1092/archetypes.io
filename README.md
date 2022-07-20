@@ -62,8 +62,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -207,7 +205,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@zes1092](https://twitter.com/zes1092) - zesh3ng@gmail.com
+Ze Sheng - [@zes1092](https://twitter.com/zes1092) - zesh3ng@gmail.com
 
 Project Link: [https://github.com/zes1092/breaux.io/](https://github.com/zes1092/breaux.io/)
 
@@ -215,12 +213,12 @@ Project Link: [https://github.com/zes1092/breaux.io/](https://github.com/zes1092
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## Acknowledgments
+ ACKNOWLEDGMENTS 
+ ## Acknowledgments
 
-Matthew Williams Givenchy 
+Matthew Williams Givenchy 2022 Clothing Collection 
 
-<p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
