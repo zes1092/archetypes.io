@@ -213,7 +213,7 @@ Project Link: [https://github.com/zes1092/breaux.io/](https://github.com/zes1092
 
 
 
- ACKNOWLEDGMENTS 
+ <!--ACKNOWLEDGMENTS -->
  ## Acknowledgments
 
 Matthew Williams Givenchy 2022 Clothing Collection 
